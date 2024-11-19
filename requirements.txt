@@ -1,0 +1,6 @@
+flask
+joblib
+boto3
+nltk
+scikit-learn==1.5.2
+flask_cors
